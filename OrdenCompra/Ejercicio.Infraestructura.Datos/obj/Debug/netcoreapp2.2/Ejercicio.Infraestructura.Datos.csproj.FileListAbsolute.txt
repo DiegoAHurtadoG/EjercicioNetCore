@@ -1,0 +1,15 @@
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\bin\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.deps.json
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\bin\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.runtimeconfig.json
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\bin\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.runtimeconfig.dev.json
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\bin\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.dll
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\bin\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.pdb
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\bin\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.dll
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\bin\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.pdb
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.csprojAssemblyReference.cache
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.AssemblyInfoInputs.cache
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.AssemblyInfo.cs
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.csproj.CoreCompileInputs.cache
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.csproj.CopyComplete
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.dll
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.pdb
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Infraestructura.Datos\obj\Debug\netcoreapp2.2\Ejercicio.Infraestructura.Datos.genruntimeconfig.cache

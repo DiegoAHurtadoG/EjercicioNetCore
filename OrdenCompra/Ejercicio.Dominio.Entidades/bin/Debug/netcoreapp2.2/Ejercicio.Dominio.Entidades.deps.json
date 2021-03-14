@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Ejercicio.Dominio.Entidades/1.0.0": {
+        "runtime": {
+          "Ejercicio.Dominio.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio.Dominio.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

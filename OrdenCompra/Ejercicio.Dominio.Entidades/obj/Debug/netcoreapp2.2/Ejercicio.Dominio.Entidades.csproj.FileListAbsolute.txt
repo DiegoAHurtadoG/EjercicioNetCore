@@ -1,0 +1,8 @@
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\bin\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.deps.json
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\bin\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.dll
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\bin\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.pdb
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\obj\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.AssemblyInfoInputs.cache
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\obj\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.AssemblyInfo.cs
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\obj\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.csproj.CoreCompileInputs.cache
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\obj\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.dll
+D:\Desarrollo\EjercicioNetCore\OrdenCompra\Ejercicio.Dominio.Entidades\obj\Debug\netcoreapp2.2\Ejercicio.Dominio.Entidades.pdb
